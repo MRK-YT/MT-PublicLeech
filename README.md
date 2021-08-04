@@ -14,12 +14,13 @@
   </a>  
 </p>
 
-##### Torrent 
-##### YouTube Leecher 🤖
-##### YouTube-DL
-##### Uploader
+##### Torrent🔍
+##### YouTube💻
+##### Leecher 🤖
+##### YouTube-DL📱
+##### Uploade📥
 
-#### Delpoy On Heroku
+#### Delpoy On Heroku 👨‍💻
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SpEcHiDe/PublicLeech)
 
